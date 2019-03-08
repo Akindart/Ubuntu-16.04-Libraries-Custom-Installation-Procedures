@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "OpenCV 3.4.5 installation"
+echo "OpenCV 3.4.5 installation by Akindart"
  
 prefix=opencv
 
