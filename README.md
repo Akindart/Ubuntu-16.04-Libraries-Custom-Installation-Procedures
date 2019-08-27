@@ -9,6 +9,6 @@ Right now it counts with scripts to install in your home folder
   
   * CMake 3.13.4
 
-All scripts allocate all efforts so the system can automatically detect new installed stuff.
+All scripts make an effot for automatically detect new installed stuff.
 
 
